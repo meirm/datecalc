@@ -1,0 +1,27 @@
+#######################################
+# Syntax Coloring Map For DateCalc Functions
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+DateCalc				KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+Update               KEYWORD2
+timeDiff               KEYWORD2
+getTimeStamp              KEYWORD2
+hours      KEYWORD2
+Minutes		KEYWORD2
+Seconds               KEYWORD2
+Lapse            KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+##__I2C_Functions_Version__   LITERAL1

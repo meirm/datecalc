@@ -1,0 +1,32 @@
+{
+	"name": "Time_Calc",
+	"version": "1.0",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/meirm/timecalc.git"
+	},
+	"keywords": "Data, time",
+	"description": "format time from mills ",
+	"authors": {
+		"name": "Meir Michanie",
+		"email": "meirm@riunx.com",
+		"url": "https://github.com/meirm"
+	},
+	"license": "MIT",
+	"frameworks": "arduino",
+	"headers": "datecalc.h",
+	"platforms": [
+		"atmelavr",
+		"atmelmegaavr",
+		"esp32"
+	],
+	"dependencies":
+	[
+		
+	],
+	"examples": [
+		
+	]
+}
+
+
